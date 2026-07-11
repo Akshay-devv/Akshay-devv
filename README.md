@@ -8,7 +8,7 @@ Data Engineer passionate about building scalable data solutions.
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science student
+- 🎓 Data Science Grad
 - 🚀 Passionate about Data Engineering & Cloud Technologies
 - 🌱 Always learning by building real-world projects
 - 💡 Interested in scalable data platforms and modern analytics
@@ -16,12 +16,7 @@ Data Engineer passionate about building scalable data solutions.
 ---
 
 ## 🛠️ Tech Stack
-
-- **Languages:** Python, SQL
-- **Data Engineering:** Snowflake, dbt, AWS S3
-- **Visualization:** Power BI, Excel
-- **Tools:** Git, GitHub, VS Code
-
+Python | SQL | Apache Spark | PySpark | Kafka | Airflow | dbt | Databricks | Snowflake | Redshift | AWS (S3, Glue) | ETL/ELT | Docker | Git
 ---
 
 ## 📌 Currently Working On
